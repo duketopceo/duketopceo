@@ -1,6 +1,16 @@
 # Hey, I'm Luke
 
-I build desktop tooling for **Omarchy** (Arch + Hyprland) and plugins for **Agent Zero**.
+I build desktop tooling for **Omarchy** (Arch + Hyprland), plugins for **Agent Zero**, and open-source agent infrastructure — orchestration, issue tracking, voice, and dictation.
+
+## Now building
+
+| Project | What it does |
+|---|---|
+| [agentflow](https://github.com/duketopceo/agentflow) | Cross-harness dynamic workflows: script-driven multi-agent orchestration for Devin, Claude, Codex, and OpenCode |
+| [Tallyline](https://github.com/duketopceo/docketry) | Self-hostable, agent-native, MIT-licensed issue tracker with Linear-class UX |
+| [open-computer](https://github.com/duketopceo/open-computer) | An open, self-hosted take on Perplexity Computer — research phase, architecture mapped, no runtime yet |
+| [WordInk](https://github.com/duketopceo/WordInk) | Dictation as a component: provider-agnostic web SDK (pre-release). [Docs & demo](https://duketopceo.github.io/WordInk/) |
+| [wisp](https://github.com/duketopceo/wisp) | Jev-routed voice computer-use agent for Omarchy — push-to-talk, act on screen, spawn background agents (v0.9 shipped) |
 
 ## Omarchy bar plugins
 
